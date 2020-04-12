@@ -3,7 +3,13 @@ Complete Space Optimization (Currently in Development)
 
 ## Visualization
 ![](images/1.png)
+```
+Isabella Reorganizing things in such a way that we can maximum area possible.
+```
 ![](images/2.png)
+```
+Converting a panorama into 3-D Map, where polynomial spatial optmization is performed for fitting n things, where n is a number denoting stuff like beds, chairs, tables, monitors, ventilators etc.
+```
 ## Acknowledgement
 ```
 @article{wang2020solov2,
